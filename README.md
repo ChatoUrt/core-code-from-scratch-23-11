@@ -1,6 +1,6 @@
 # core-code-from-scratch-readme
 
----Como hacer una pizza---
+##---Como hacer una pizza---
 
 Consigue todos los ingredientes:
 -Una taza 1/2 de agua tibia
@@ -28,10 +28,10 @@ Consigue todos los ingredientes:
 
 //Si no tiene estos ingredientes debe comprar la salsa, a su gusto-
 
---Preparación--
+###--Preparación--
 //Si prefirió comprar la masa de la pizza hecha puede continuar con la preparación saltando hasta la línea: 51
 
-//Si prepará la masa  entonces:
+####Si prepará la masa  entonces:
 -Agregue la harina, la sal, el azúcar y el aceite de oliva y, con una paleta mezcladora, mezcle a baja velocidad durante un minuto.
 Amasar la masa de pizza a velocidad baja a media durante unos 7-10 minutos.
 Si no tienes una batidora, puedes mezclar los ingredientes y amasarlos a mano.
@@ -48,7 +48,7 @@ Cuanto más largo sea el aumento (hasta un punto), mejor será el sabor que tend
 -Aplanar con las manos o con un rodillo de madera 
 - Trate de estirarla y darle la forma circular con los dedos
 
-Ahora con los ingredientes, es necesario que:
+####Ahora con los ingredientes, es necesario que:
 Ponga la msa sobre una bandeja
 -Esparza la salsa sobre toda la masa
 -Agregue los ingredientes previamente mencionados {La cebolla, el chile pimiento, champiñones}
@@ -58,9 +58,9 @@ Ponga la msa sobre una bandeja
 -Hornear a 475° F entre 10 y 15 minutos
 -Retire con un guante la bandeja del horno
 -Deje que se enfrié un poco
-------------------------------------------------
+---
 
----Conversor de Temperatura---
+##---Conversor de Temperatura---
 
 'Por favor ingrese la temperatura que desea converitir a grados Fahrenheit'
 Temperatura = [Numero escogido por el usuario]
@@ -71,9 +71,9 @@ F = Temperatura - 32 * .5556
 
 C = * 1.8 + 32
 'Los grados Celcius son' C
-----------------------------------------------
+---
 
----Volumen de figuras geométricas---
+###---Volumen de figuras geométricas---
 PIRAMIDE: 1/3 * Largo * Altura
 CUBO: lado^3
 ESFERA: 4/3 π(radio)³.
