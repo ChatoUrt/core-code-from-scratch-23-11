@@ -29,7 +29,7 @@ Consigue todos los ingredientes:
 -Si no tiene estos ingredientes debe comprar la salsa, a su gusto-
 
 ### --Preparación--
--Si prefirió comprar la masa de la pizza hecha puede continuar con la preparación saltando hasta la línea: 51
+-Si prefirió comprar la masa de la pizza hecha puede continuar con la preparación saltando hasta: es necesario que
 
 #### Si prepará la masa  entonces:
 -Agregue la harina, la sal, el azúcar y el aceite de oliva y, con una paleta mezcladora, mezcle a baja velocidad durante un minuto.
