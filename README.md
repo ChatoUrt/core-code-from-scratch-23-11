@@ -1,4 +1,5 @@
 # core-code-from-scratch-readme
+## Wednesday 11/23
 
 ## ---Como hacer una pizza---
 
