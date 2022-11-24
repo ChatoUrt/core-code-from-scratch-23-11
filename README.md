@@ -72,3 +72,23 @@ F = Temperatura - 32 * .5556
 C = * 1.8 + 32
 'Los grados Celcius son' C
 ----------------------------------------------
+
+---Volumen de figuras geométricas---
+PIRAMIDE: 1/3 * Largo * Altura
+CUBO: lado^3
+ESFERA: 4/3 π(radio)³.
+
+'Escoja el volumen de la figura geométrica que desea: Piramide, Cubo, Esfera'
+
+-'Ha escogido piramide. Para obtener el volumen de una piramide ingrese Largo y Altura'
+Largo
+Altura
+'El volumen de la piramide es de:' PIRAMIDE
+
+-'Ha escogido cubo. Por favor ingrese la medida de uno de los lados del cubo'
+lado
+'El volumen del cubo es de:' CUBO
+
+-'Ha escogido Esfera. Por favor ingrese el largo del radio de su esfera'
+radio
+'El volumen de la esfera es de' ESFERA
