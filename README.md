@@ -9,7 +9,7 @@ Consigue todos los ingredientes:
 -2 cucharadas de harina de pan
 -2 cucharadita de sal 
 -Una cucharadita de azúcar
-//Si prefiere puede comprar la base de masa de la pizza
+--Si prefiere puede comprar la base de masa de la pizza--
 
 -Cebolla
 -Chile pimiento
@@ -17,7 +17,7 @@ Consigue todos los ingredientes:
 -Queso motzarella
 -Queso parmesano
 
-//Si tiene estos vegetales puede hacer la salsa por su cuenta-
+-Si tiene estos vegetales puede hacer la salsa por su cuenta-
 
 1. 1 Cucharada aceite de oliva 
 2. 200 gr cebolla cortada en pluma delgada 
@@ -26,10 +26,10 @@ Consigue todos los ingredientes:
 5. 2 cucharadas de pasta o concentrado de tomate 
 6. 1 cucharadita orégano seco Sal y pimienta a gusto
 
-//Si no tiene estos ingredientes debe comprar la salsa, a su gusto-
+-Si no tiene estos ingredientes debe comprar la salsa, a su gusto-
 
 ### --Preparación--
-//Si prefirió comprar la masa de la pizza hecha puede continuar con la preparación saltando hasta la línea: 51
+-Si prefirió comprar la masa de la pizza hecha puede continuar con la preparación saltando hasta la línea: 51
 
 #### Si prepará la masa  entonces:
 -Agregue la harina, la sal, el azúcar y el aceite de oliva y, con una paleta mezcladora, mezcle a baja velocidad durante un minuto.
@@ -63,15 +63,15 @@ Ponga la msa sobre una bandeja
 ---
 ## ---Conversor de Temperatura---
 
-'Por favor ingrese la temperatura que desea converitir a grados Fahrenheit'
+Por favor ingrese la temperatura que desea converitir a grados Fahrenheit
 Temperatura = [Numero escogido por el usuario]
 
 F = Temperatura - 32 * .5556
 
-'Los grados Celcius son' F
+Los grados Celcius son: F
 
 C = * 1.8 + 32
-'Los grados Celcius son' C
+Los grados Celcius son: C
 
 ---
 ## ---Volumen de figuras geométricas---
@@ -79,17 +79,17 @@ PIRAMIDE: 1/3 * Largo * Altura
 CUBO: lado^3
 ESFERA: 4/3 π(radio)³.
 
-'Escoja el volumen de la figura geométrica que desea: Piramide, Cubo, Esfera'
+Escoja el volumen de la figura geométrica que desea: Piramide, Cubo, Esfera
 
--'Ha escogido piramide. Para obtener el volumen de una piramide ingrese Largo y Altura'
+-Ha escogido piramide. Para obtener el volumen de una piramide ingrese Largo y Altura
 Largo
 Altura
-'El volumen de la piramide es de:' PIRAMIDE
+El volumen de la piramide es de: PIRAMIDE
 
--'Ha escogido cubo. Por favor ingrese la medida de uno de los lados del cubo'
+-Ha escogido cubo. Por favor ingrese la medida de uno de los lados del cubo
 lado
-'El volumen del cubo es de:' CUBO
+El volumen del cubo es de: CUBO
 
--'Ha escogido Esfera. Por favor ingrese el largo del radio de su esfera'
+-Ha escogido Esfera. Por favor ingrese el largo del radio de su esfera
 radio
-'El volumen de la esfera es de' ESFERA
+El volumen de la esfera es de ESFERA
