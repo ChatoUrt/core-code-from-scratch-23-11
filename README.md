@@ -58,3 +58,17 @@ Ponga la msa sobre una bandeja
 -Hornear a 475° F entre 10 y 15 minutos
 -Retire con un guante la bandeja del horno
 -Deje que se enfrié un poco
+------------------------------------------------
+
+---Conversor de Temperatura---
+
+'Por favor ingrese la temperatura que desea converitir a grados Fahrenheit'
+Temperatura = [Numero escogido por el usuario]
+
+F = Temperatura - 32 * .5556
+
+'Los grados Celcius son' F
+
+C = * 1.8 + 32
+'Los grados Celcius son' C
+----------------------------------------------
